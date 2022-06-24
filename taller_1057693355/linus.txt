@@ -1,6 +1,14 @@
 Linus Torvalds
 --------------------------
 Linus Benedict Torvalds (Helsinki, Finlandia, 28 de diciembre de 19691​) es un ingeniero de software finlandés-estadounidense,2​ conocido por iniciar y mantener el desarrollo del kernel (en español, núcleo) Linux, basándose en el sistema operativo libre Minix creado por Andrew S. Tanenbaum y en algunas herramientas, varias utilidades y los compiladores desarrollados por el proyecto GNU. Actualmente es responsable de la coordinación del proyecto.
+Biografía
+--------------------------
+Torvalds pertenece a la comunidad sueco-parlante de Finlandia. Sus padres tomaron su nombre de
+Linus Pauling (estadounidense, Premio Nobel de Química 1954). Comenzó sus andanzas informáticas a
+los 11 años cuando su abuelo, un matemático y estadístico de la Universidad, compró uno de los
+primeros microordenadores Commodore en 1980 y le pidió ayuda para usarlo;3 de esta manera su
+primera línea de código fue hecha en lenguaje BASIC.4
+
 Creación de Linux
 --------------------------
 En Finlandia, Linus Torvalds, por entonces estudiante de Ciencias de la Computación de la
@@ -23,10 +31,7 @@ de cero.
 De forma privada, Linus nombraba Linux a su nuevo sistema, pero cuando decidió hacer una
 presentación pública pensó que era demasiado egocéntrico llamarlo así y propuso llamarlo Freax,
 aunque después se le siguió conociendo como Linux, práctica que perdura hasta ahora.
-Después de anunciar el 25 de agosto de 1991 su intención de seguir desarrollando su sistema para
-construir un reemplazo de Minix, el 17 de septiembre sube al servidor de FTP proporcionado por su
-universidad la versión 0.01 de Linux con 10 000 líneas de código. A partir de ese momento Linux
-empezó a evolucionar rápidamente.
+
 
 Autoría y marca registrada
 ---------------------------
